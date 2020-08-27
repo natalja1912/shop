@@ -9,7 +9,7 @@
     "deploy": "gh-pages -d dist"
   },
   "author": "Natalia Pavlova",
-  "homepage": "https://github.com/natalja1912/mesto.git",
+  "homepage": "https://github.com/natalja1912/shop.git",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.11.1",

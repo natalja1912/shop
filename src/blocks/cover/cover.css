@@ -1,0 +1,34 @@
+@import url(./__logo/cover__logo.css);
+@import url(./__image/cover__image.css);
+@import url(./__background/cover__background.css);
+@import url(./__text/cover__text.css);
+@import url(./__search/cover__search.css);
+@import url(./__form/cover__form.css);
+@import url(./__input/cover__input.css);
+@import url(./__select/cover__select.css);
+@import url(./__heading/cover__heading.css);
+@import url(./__heading/_type/cover__heading_type_span.css);
+@import url(./__subheading/cover__subheading.css);
+@import url(./__subheading/_type/cover__subheading_type_span.css);
+@import url(./__details-button/cover__details-button.css);
+
+
+.cover{
+    position: relative;
+    padding: 0;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1604px;
+    min-height: 1052px;
+    display: flex;
+    overflow: hidden;
+    z-index: 1;
+}
+
+@media screen and (max-width: 1240px) {
+    .cover{
+        width: 100%;
+        height: 100vh;
+    }
+}
+

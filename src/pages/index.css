@@ -1,11 +1,20 @@
 @import url(../vendor/normalize.css);
-@import url(../vendor/fonts.css);
-@import url(../blocks/page/page.css);
-@import url(../blocks/header/header.css);
 @import url(../blocks/cover/cover.css);
-@import url(../blocks/places/places.css);
-@import url(../blocks/place/place.css);
-@import url(../blocks/popup/popup.css);
-@import url(../blocks/popup/_opened/popup_opened.css);
+@import url(../blocks/bags/bags.css);
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/card/card.css);
+@import url(../blocks/brands/brands.css);
+@import url(../blocks/watches/watches.css);
+@import url(../blocks/news/news.css);
+@import url(../blocks/nav/nav.css);
 @import url(../blocks/footer/footer.css);
 
+.page{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}

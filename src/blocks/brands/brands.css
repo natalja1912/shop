@@ -1,0 +1,15 @@
+@import url(./__text/brands__text.css);
+@import url(./__heading/brands__heading.css);
+@import url(./__subheading/brands__subheading.css);
+@import url(./__subheading/_type/brands__subheading_type_span.css);
+@import url(./__paragraph/brands__paragraph.css);
+@import url(./__image/brands__image.css);
+
+.brands{
+    margin: auto;
+    padding-bottom: 99px;
+    width: 86%;
+    display: flex;
+    background: url('../../images/circle.svg') no-repeat;
+    background-position: top 30px right 100px;
+}

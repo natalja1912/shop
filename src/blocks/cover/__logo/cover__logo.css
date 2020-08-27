@@ -1,0 +1,15 @@
+.cover__logo{
+    position: absolute;
+    top: 39px;
+    left: 178px;
+    width: 193px;
+    height: 139px;
+    z-index: 4;
+}
+
+@media screen and (max-width: 1550px) {
+    .cover__logo{
+        width: 150px;
+        height: 110px;
+    }
+}

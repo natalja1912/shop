@@ -1,0 +1,20 @@
+.cover__search{
+    margin: 0;
+    padding: 0;
+    margin-left: 210px;
+    margin-top: 79px;
+    width: 372px;
+    height: 65px;
+    border-radius: 32px;
+    box-shadow: 2.5px 4.33px 25px rgba(189,227,239,0.75);
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+}
+
+@media screen and (max-width: 1550px) {
+    .cover__search{
+        margin-left: 0;
+        height: 45px;
+    }
+}
