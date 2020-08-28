@@ -16,10 +16,16 @@
     }
 }
 
-@media screen and (max-width: 1240px) {
+@media screen and (max-width: 1300px) {
     .cover__image{
         height: 100%;
-        top: -10%;
+        top: 0;
         object-fit: contain;
+    }
+}
+
+@media screen and (max-width: 760px) {
+    .cover__image{
+        display: none;
     }
 }

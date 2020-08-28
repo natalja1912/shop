@@ -11,3 +11,17 @@
     justify-content: space-between;
 
 }
+
+@media screen and (max-width: 1200px) {
+    .nav__list{
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 760px) {
+    .nav__list{
+        width: 80%;
+        font-size: 14px;
+        margin-bottom: 35px;
+    }
+}

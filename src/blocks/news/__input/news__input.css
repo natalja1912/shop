@@ -8,3 +8,9 @@
     text-align: center;
     border: none;
 }
+
+@media screen and (max-width: 760px) {
+    .news__input{
+        font-size: 17px;
+    }
+}

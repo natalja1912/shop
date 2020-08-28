@@ -14,3 +14,10 @@
         font-size: 35px;
     }
 }
+
+@media screen and (max-width: 1100px) {
+    .cover__subheading{
+        font-size: 30px;
+    }
+}
+

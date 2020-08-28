@@ -6,7 +6,6 @@
     border-radius: 32px;
     border: none;
     overflow: hidden;
-    padding-left: 37px;
     appearance: none;
     background-image: url('../../../images/arrow.svg');
     background-repeat: no-repeat;
@@ -24,3 +23,8 @@
     font-size: 18px;
     color: #151515;
 }
+
+
+
+
+

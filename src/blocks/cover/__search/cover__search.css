@@ -15,6 +15,18 @@
 @media screen and (max-width: 1550px) {
     .cover__search{
         margin-left: 0;
-        height: 45px;
+    }
+}
+
+@media screen and (max-width: 1240px) {
+    .cover__search{
+        width: 300px;
+        height: 40px;
+    }
+}
+
+@media screen and (max-width: 760px) {
+    .cover__search{
+        margin-top: 40%;
     }
 }

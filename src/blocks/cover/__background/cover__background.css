@@ -27,3 +27,8 @@
 }
 
 
+@media screen and (max-width: 760px) {
+    .cover__background{
+        background: linear-gradient(27deg, #1100ff 0%, #aa55f3 100%);
+    }
+}
